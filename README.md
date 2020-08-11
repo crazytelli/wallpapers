@@ -1,6 +1,5 @@
 # wallpapers
-Coleção de wallpapers
+Collection of wallpapers
 
-## A fazer
-
-- Inserir crédito para as imagens.
+Most of wallpapers are from here:
+[Sky Folk pictures](https://www.theskyfolk.com/photo#photography)
